@@ -1,4 +1,4 @@
-**#Bookstore Application**
+# **Bookstore Application**
 This is a fully functional Bookstore Application built using the MERN stack (MongoDB, Express.js, ReactJS, Node.js). The application allows users to sign up, log in, and browse through a collection of books, with all data coming from the backend.
 
 **Key Features:**
