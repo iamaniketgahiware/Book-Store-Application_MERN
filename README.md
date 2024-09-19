@@ -3,9 +3,13 @@ This is a fully functional Bookstore Application built using the MERN stack (Mon
 
 **Key Features:**
 **Dark/Light Mode Toggle:** Easily switch between dark and light themes for better user experience.
+
 **User Management**: Users can sign up, log in, and manage their account information.
+
 **Responsive Design**: The application is fully responsive and works across various devices.
+
 **Data Handling:** All data, including user information and book details, is fetched from the backend using MongoDB.
+
 
 
 
